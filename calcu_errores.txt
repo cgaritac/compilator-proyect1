@@ -1,0 +1,190 @@
+1   
+2   		import x;
+import es una palabra reservada
+    Error 2: No se encontró la palabra 'package'.
+3   
+4   		pack   calc;
+    Error 4: No se encontró la declaración 'import' después de 'package'.
+5   
+6   	package calcu
+package es una palabra reservada
+    Error 4: No se encontró la declaración 'import' después de 'package'.
+7   
+8     package calcu212;
+package es una palabra reservada
+    Error 4: No se encontró la declaración 'import' después de 'package'.
+9   
+10    package calcu ;
+package es una palabra reservada
+    Error 4: No se encontró la declaración 'import' después de 'package'.
+11  
+12  import java.util.S
+import es una palabra reservada
+    Error 5: El nombre de import no es válido o hace falta el ';' al final.
+13  
+14  IMP java.util.Scanner;
+    Error 4: No se encontró la declaración 'import' después de 'package'.
+15  
+16  IMPOT 
+    Error 4: No se encontró la declaración 'import' después de 'package'.
+17  
+18  import java.util.Scanner;
+import es una palabra reservada
+19  
+20  
+21  public class calcu 
+public es una palabra reservada
+class es una palabra reservada
+22  
+23  public class c1213 {
+public es una palabra reservada
+class es una palabra reservada
+    Error 8: No se encontró la declaración 'public static void main(String[] args)'.
+24  
+25  	public class calcul {
+public es una palabra reservada
+class es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+26  
+27  class calcu {
+class es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+28  
+29  	public  calcu {
+public es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+30  
+31  public class calcu {
+public es una palabra reservada
+class es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+32      public static void main  (String[] args) 
+public es una palabra reservada
+static es una palabra reservada
+void es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+33      public static void main  (String[] args {
+public es una palabra reservada
+static es una palabra reservada
+void es una palabra reservada
+    Error 9: El número de paréntesis no es igual, hace falta cerrar un paréntesis redondo'.
+    Error 12: Hace falta el punto y coma al final'.
+34  	
+35      public static void main  String[] args) {
+public es una palabra reservada
+static es una palabra reservada
+void es una palabra reservada
+    Error 9: El número de paréntesis no es igual, hace falta cerrar un paréntesis redondo'.
+    Error 12: Hace falta el punto y coma al final'.
+36      
+37  	public static void main  (String args) {
+public es una palabra reservada
+static es una palabra reservada
+void es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+38      
+39  	public static void main  (String[] ) {
+public es una palabra reservada
+static es una palabra reservada
+void es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+40       public void main  (String[] args) {
+public es una palabra reservada
+void es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+41      static void main  (String[] args) {
+static es una palabra reservada
+void es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+42      
+43  	public static void (String[] args) {
+public es una palabra reservada
+static es una palabra reservada
+void es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+44      public static main  (String[] args) {
+public es una palabra reservada
+static es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+45  	
+46           public static void main  (String[] args) {
+public es una palabra reservada
+static es una palabra reservada
+void es una palabra reservada
+    Error 12: Hace falta el punto y coma al final'.
+47          
+48          int opcion;
+int es una palabra reservada
+49      
+50      int num1;
+int es una palabra reservada
+51  
+52  	int num2;
+int es una palabra reservada
+53  
+54  	int resul;
+int es una palabra reservada
+55         
+56    break;
+57               
+58    Scanner leer = new Scanner(System.in);
+new es una palabra reservada
+59          
+60          				 System.out.println("Elige la operacion que quieres realizar en el programa indicado en el proyecto");
+    Error 1: La línea tiene más de 80 caracteres.
+61          System.out.println("Elige la operacion que quieres realizar");
+62          System.out.println("1 - Suma";
+    Error 9: El número de paréntesis no es igual, hace falta cerrar un paréntesis redondo'.
+63          System.out.println("2 - Resta);
+    Error 13: Hace falta cerrar las comillas'.
+64          System.out.println "3 - Multiplicación");
+    Error 9: El número de paréntesis no es igual, hace falta cerrar un paréntesis redondo'.
+65          System.out.print  ("4 - División");
+66          system ("Elige la operacion que quieres realizar");
+67          out.println("Elige la operacion que quieres realizar");
+68                
+69          opcion = leer.nextInt();
+70          
+71          Systema.out.println "Escribe el primer número");
+    Error 9: El número de paréntesis no es igual, hace falta cerrar un paréntesis redondo'.
+72  		System.outs.printlna ("Escribe el primer número";
+    Error 9: El número de paréntesis no es igual, hace falta cerrar un paréntesis redondo'.
+73  		System.out.printlns ("Escribe el primer número")
+    Error 12: Hace falta el punto y coma al final'.
+74  		System.out.println (Escribe el primer número);
+75  		System.out.println ("Escribe el primer número");
+76  		
+77          num1 =leer.nextInt();
+78  		
+79          System.out.println ("Escribe el segundo número");
+80          
+81  		num2 = leer.nextInt();
+82          	System.out.println("El resultado de sumar "+ n7 +"+"+ num2+ " es: "+ r);
+83  		
+84  		System.out.println("El resultado de sumar "+ num1 +"+"+ n26+ " es: "+ r);
+85  		
+86  		System.out.println("El resultado de sumar "+ num1 +"+"+ num2+ " es: "+ rres);
+87  		System.out.println("El resultado de sumar "+ n1 +"+"+ n2+ " es: " r);
+88  System.out.println("El resultado de sumar "+ num1 +"+"+ num2+ " es: " + resul);
+89         
+90          
+91  return ;                
+return es una palabra reservada
+92      }
+93      
+94  }
+95  
+96  }
+    Error 11: Hace falta cerrar una llave'.
+-------------- Estadísticas ----------------
+Cantidad de Llaves Apertura: 14
+Cantidad de Llaves Cierre: 3
+Cantidad de Paréntesis Cuadrados de Apertura: 9
+Cantidad de Paréntesis Cuadrados de Cierre: 9
+Cantidad de Paréntesis Redondos de Apertura: 30
+Cantidad de Paréntesis Redondos de Cierre: 30
+Cantidad de Palabras Reservadas: 49
+Cantidad de Identificadores: 82
+Cantidad de Signos de Igualdad: 4
+Cantidad de Operadores Aritméticos: 5
+Cantidad de Operadores Relacionales: 0
